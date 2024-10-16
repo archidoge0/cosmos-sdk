@@ -16,6 +16,5 @@ This repo intends on preserving the minimal possible diff with [cosmos/cosmos-sd
 - not specific to Nubit: consider making the contribution upstream in [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
 
 # Audit Reports
-The following audit reports are available for Cosmos-SDK and the Nubit DA network:
-- [Nubit NativeToken Audit (2024)](./docs/audit/Nubit-NativeToken_Audit_2024.pdf) - An audit report specifically covering the adaptations made to the Cosmos-SDK for Nubit’s native token functionalities.
-- [Nubit DA General Audit (2024)](./docs/audit/Nubit_DA_Fuzzland_Audit_2024.pdf) - A general audit by Fuzzland, addressing security and operational consistency across the Nubit DA network repositories.
+The following audit report is available for Cosmos-SDK:
+- [Nubit Cosmos-SDK Audit (2024)](./docs/audit/Nubit-Cosmos-SDK_Audit_2024.pdf) - An audit report specifically covering the adaptations made to the Cosmos-SDK for Nubit’s functionalities.
